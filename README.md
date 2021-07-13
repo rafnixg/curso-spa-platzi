@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/rafnixg/curso-spa-platzi.svg?branch=main)](https://travis-ci.com/rafnixg/curso-spa-platzi)
 # Curso Single Page Aplication usando Vanilla JS
 
 ## Install
